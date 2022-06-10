@@ -1,0 +1,5 @@
+@relation nbrPost-nbrAnnonce
+@attribute nbrAnnonce numeric
+@attribute nbrPost numeric
+@data
+3    1
