@@ -1,5 +1,0 @@
-@relation nbrPost-nbrAnnonce
-@attribute nbrAnnonce numeric
-@attribute nbrPost numeric
-@data
-4    1
